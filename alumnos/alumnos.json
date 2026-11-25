@@ -1,0 +1,20 @@
+{
+    "30222333": {
+        "nombre": "Carlos",
+        "apellido": "Jose",
+        "edad": 40,
+        "nota": 5.0
+    },
+    "34567234": {
+        "nombre": "Santiago",
+        "apellido": "Jose",
+        "edad": 15,
+        "nota": 5.1
+    },
+    "72334567": {
+        "nombre": "Nicolas",
+        "apellido": "Monte",
+        "edad": 40,
+        "nota": 8.0
+    }
+}
